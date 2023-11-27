@@ -3,6 +3,8 @@ Thank you for your interest in contributing! Please see the guidelines below bef
 
 You can also visit our [developer guide](https://developers.mattermost.com/contribute/desktop/) to learn more information about how to set up your environment, as well as develop and test changes to the Desktop App.
 
+Test
+
 ## Issue
 We really appreciate your feedback on the Desktop App. We'd ask that before you file an issue that you go through a few steps beforehand.
 
